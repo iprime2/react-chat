@@ -1,5 +1,4 @@
-####################################################################################################
-
+#######################################################################################
 Welcome,
 I have created this chat webapp by using the Reactjs and Firebase, in this webapp we can send and receive message and image in realtime, I have used firebase signin method for login In and registeration in the webapp.
 
@@ -9,3 +8,5 @@ Link to my webapp:
 https://krishil-chat.on.fleek.co/login
 
 ![Screenshot](demo.png)
+
+#######################################################################################
